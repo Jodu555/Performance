@@ -1,0 +1,7 @@
+name: Performance
+author: Jodu555
+version: 3.0
+main: de.Jodu555.performance.Performance
+api-version: 1.13
+commands:
+  performance:
